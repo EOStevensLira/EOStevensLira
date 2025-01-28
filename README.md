@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo Stevens
-- 👀 I’m interested in ... Mechatronics Engineering, Robotics, Artificial Intelligence and Cibersecurity
-- 🌱 I’m currently learning ... Robot programming 
+- 👀 I’m interested in ... Mechatronics Engineering, Artificial Intelligence, Cibersecurity and Data Science
+- 🌱 I’m currently learning ... Artificial Intelligence 
 - 💞️ I’m looking to collaborate on ... Any project using Python, Java, C, C++ and SQL
 - 📫 How to reach me ... eduardostevenslira@comunidad.unam.mx
 
